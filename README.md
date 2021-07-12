@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namnguyenthanhwork
 - 👀 I’m interested in Front-end Dev
 - 🌱 I’m currently learning OU HCMC
-- 📫 Contact me: 
+- 📫 Contact me: https://www.facebook.com/NguyenThanhNam1601/
 
 <!---
 namnguyenthanhwork/namnguyenthanhwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
