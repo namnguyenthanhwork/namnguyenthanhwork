@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Thành Nam Nguyễn
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/namnguyenthanhwork/namnguyenthanhwork/blob/main/images/profile.png)
+![I am GitHub Readme Generator's creator](https://github.com/namnguyenthanhwork/namnguyenthanhwork/blob/main/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
