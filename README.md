@@ -17,10 +17,6 @@ Skills: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=namnguyenthanhwork&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=namnguyenthanhwork)  
-
 ![GitHub metrics](https://metrics.lecoq.io/namnguyenthanhwork)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=namnguyenthanhwork)  
 
 ![Profile views](https://gpvc.arturio.dev/namnguyenthanhwork)  
