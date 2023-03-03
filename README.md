@@ -1,5 +1,8 @@
 ### Hi there 👋, my name is Thành Nam Nguyễn
-#### I'm Developer
+#### I'm Developer from `CodeLyoko Teams`
+
+`Code Lyoko` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my group after this movie.
+
 ![I am GitHub Readme Generator's creator](https://github.com/namnguyenthanhwork/namnguyenthanhwork/blob/main/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
@@ -9,7 +12,5 @@ Skills: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/namnguyenthanhwork)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NguyenThanhNam1601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yuu2k1/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=namnguyenthanhwork&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/namnguyenthanhwork)  
 
 ![Profile views](https://gpvc.arturio.dev/namnguyenthanhwork)  
