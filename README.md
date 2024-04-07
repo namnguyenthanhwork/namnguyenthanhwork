@@ -10,7 +10,7 @@ I'm Web Developer from `Code Lyoko Team`
 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [thanhnamnguyen.dev](http://www.thanhnamnguyen.dev/)
-* 📝  Blog at [blog.thanhnamnguyen.dev](http://blog.thanhnamnguyen.dev/)
+* 📝   Blog at [blog.thanhnamnguyen.dev](http://blog.thanhnamnguyen.dev/)
 * ✉️  You can contact me at [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
 * 🚀  I'm currently working on [Boolfly](http://boolfly.com/)
 
