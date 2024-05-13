@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thành Nam Nguyễn
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thành Nam Nguyễn aka Yuu
 ========================================================================================================================================
 
 I'm Web Developer from `Code Lyoko Team`
@@ -10,7 +10,7 @@ I'm Web Developer from `Code Lyoko Team`
 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [thanhnamnguyen.dev](http://www.thanhnamnguyen.dev/)
-* 📝   Blog at [blog.thanhnamnguyen.dev](http://blog.thanhnamnguyen.dev/)
+* 📝  Blog at [blog.thanhnamnguyen.dev](http://blog.thanhnamnguyen.dev/)
 * ✉️  You can contact me at [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
 * 🚀  I'm currently working on [Boolfly](http://boolfly.com/)
 
@@ -37,7 +37,5 @@ I made projects just for fun, training my skills...
 <a href="http://www.github.com/namnguyenthanhwork"><img src="https://github-readme-stats.vercel.app/api?username=namnguyenthanhwork&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="namnguyenthanhwork's GitHub stats" /></a>
 
 <a href="http://www.github.com/namnguyenthanhwork"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namnguyenthanhwork&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/namnguyenthanhwork" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnguyenthanhwork&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 Thanks for stopping by, and I look forward to connecting with you soon!
