@@ -12,7 +12,6 @@ I'm Web Developer from `Code Lyoko Team`
 * 🖥️  See my portfolio at [thanhnamnguyen.dev](http://www.thanhnamnguyen.dev/)
 * 📝  Blog at [blog.thanhnamnguyen.dev](http://blog.thanhnamnguyen.dev/)
 * ✉️  You can contact me at [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
-* 🚀  I'm currently working on [Boolfly](http://boolfly.com/)
 
 <a href="https://www.github.com/namnguyenthanhwork" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/namnguyenthanhwork?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
