@@ -7,7 +7,7 @@ I'm Web Developer from `Code Lyoko Team`
 `Code Lyoko` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
 
 * 🌍  I'm based in Viet Nam
-* 🖥️  See my portfolio at [thanhnamnguyen.dev](http://www.thanhnamnguyen.dev/)
+* 🖥️  See my portfolio website at [thanhnamnguyen.dev](http://www.thanhnamnguyen.dev/)
 * 📝  Blog at [blog.thanhnamnguyen.dev](http://blog.thanhnamnguyen.dev/)
 * ✉️  You can contact me at [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
 
