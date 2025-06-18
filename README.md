@@ -1,4 +1,4 @@
-![https://res.cloudinary.com/thanhnam/image/upload/v1696673370/thanhnamnguyen.dev/about-me/about-me-banner_kbikos.jpg](https://res.cloudinary.com/thanhnam/image/upload/v1742049101/github-readme_efpfvc.png)
+![https://res.cloudinary.com/thanhnam/image/upload/v1750264121/github-readme_enet3j.jpg](https://res.cloudinary.com/thanhnam/image/upload/v1750264121/github-readme_enet3j.jpg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thành Nam Nguyễn aka Yuu
 ========================================================================================================================================
