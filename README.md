@@ -12,7 +12,6 @@ I'm Web Developer from `Code Lyoko Team`
 * 👨‍🎓  Studied at Open University (OU HCMC)
 * 🖥️  See my portfolio website at [thanhnamnguyen.dev](https://www.thanhnamnguyen.dev/)
 * 📝  Blog at [thanhnamnguyen.dev/blog](https://www.thanhnamnguyen.dev/blog)
-* ⚡️  Founder of [thiepmoionline.com](https://thiepmoionline.com/)
 * ✉️  You can contact me via [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
 
 ### Skills
